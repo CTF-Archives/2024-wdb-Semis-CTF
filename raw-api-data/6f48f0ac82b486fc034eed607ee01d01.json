@@ -1,0 +1,24 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311509.434277,
+    "data": {
+        "resource_id": "6f48f0ac82b486fc034eed607ee01d01",
+        "name": "RSA加密分析",
+        "desc": "equations\nrsa真的安全吗",
+        "attachment": {
+            "name": "b9f78ade9b8948fb8dab35c1db0f9299.zip",
+            "url": "/cpms/oj/practice_attachment/99a0e368ef5d43d3b19f7a6f581a0c3d.zip",
+            "md5": "675abffc4a38c1c843ed63297103c103"
+        },
+        "with_scene": false,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": false,
+        "solved_score": 0,
+        "solved_rank": 0,
+        "recycle": null,
+        "flag_type": 0
+    }
+}

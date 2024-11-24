@@ -1,0 +1,39 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311699.098224,
+    "data": {
+        "resource_id": "a4df1ae3b58ca3ddcc09095c1b8a49fe",
+        "name": "数据安全协议分析",
+        "desc": "Never Finish\n自定义TLS协议可能会存在安全问题，本题实现 TLS 的 Hello 部分，再利用 AES CFB 模式的性质伪造签名后的消息。\n\n端口为23333，nc正常无法连接上，需要根据server实现客户端链接。",
+        "attachment": {
+            "name": "ba3489b311cc44d1a57cd4eee1b16787.zip",
+            "url": "/cpms/oj/practice_attachment/6cd59289661d42ca92b31363615f1704.zip",
+            "md5": "32fded862198987b2b0a544a9f15f6a5"
+        },
+        "with_scene": true,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": false,
+        "solved_score": 0,
+        "solved_rank": 0,
+        "recycle": null,
+        "flag_type": 1,
+        "scene_config": {
+            "id": "5fd0e80bff464ad1b339a95f3484ac3c",
+            "cscene": null,
+            "name": "数据安全协议分析",
+            "reference_type": 302,
+            "scene_config": {
+                "topology": {
+                    "scene": {
+                        "eid": "0bfc664c66994e7cadeb558e1a0af4dc",
+                        "name": "数据安全协议分析",
+                        "description": ""
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311617.031705,
+    "data": {
+        "resource_id": "4925dc76e06f5a37608a45c43a85f6ce",
+        "name": "邮件数据分析",
+        "desc": "Easy_Data\n公司的DLP软件报警了，并上传了一段流量。你能帮bob分析下为什么会产生报警么？",
+        "attachment": {
+            "name": "misc_easy_data.zip",
+            "url": "/ct/upload/other/57edf1fbb5056961a908b8aeff0ac1e9.zip",
+            "md5": "b882e83622d005e337cec1fe59af6a8f"
+        },
+        "with_scene": false,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": true,
+        "solved_score": 118.06,
+        "solved_rank": 11,
+        "recycle": null,
+        "flag_type": 0
+    }
+}

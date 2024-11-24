@@ -1,0 +1,24 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311869.295138,
+    "data": {
+        "resource_id": "3dee8e1fefacfc19257c13abf9daa5f3",
+        "name": "网络通信流量分析",
+        "desc": "socket\n小鼎同学在日常运维排查中发现了异常通信流量，通过初步定位分析，他获得了客户端、服务端程序以及相关流量，请帮他找出其中异常敏感数据！",
+        "attachment": {
+            "name": "0705a3b79ea5468ab52dce250a9452a6.zip",
+            "url": "/cpms/oj/practice_attachment/a5f23b234e5d474fb1c834138e3a57f9.zip",
+            "md5": "12807b1f2b06766acc1be553b8b78e78"
+        },
+        "with_scene": false,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": true,
+        "solved_score": 89.58,
+        "solved_rank": 52,
+        "recycle": null,
+        "flag_type": 0
+    }
+}

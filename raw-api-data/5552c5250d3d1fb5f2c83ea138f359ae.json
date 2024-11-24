@@ -1,0 +1,39 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311669.601985,
+    "data": {
+        "resource_id": "5552c5250d3d1fb5f2c83ea138f359ae",
+        "name": "二进制漏洞挖掘",
+        "desc": "cardmaster\n请卡牌大师们找出这台切牌机中的漏洞并获取flag",
+        "attachment": {
+            "name": "6a4ca062e7aa489eba566b0839de1213.zip",
+            "url": "/cpms/oj/practice_attachment/f76b323090644b81a0c76b0cfd1a5c70.zip",
+            "md5": "001a97c9bee1f4cc5bc7f650b3def601"
+        },
+        "with_scene": true,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": false,
+        "solved_score": 0,
+        "solved_rank": 0,
+        "recycle": null,
+        "flag_type": 1,
+        "scene_config": {
+            "id": "e3142fef464244638e583af173cbf6e6",
+            "cscene": null,
+            "name": "二进制漏洞挖掘",
+            "reference_type": 302,
+            "scene_config": {
+                "topology": {
+                    "scene": {
+                        "eid": "a8caac97b0ff4901ae6b15a925b71a10",
+                        "name": "二进制漏洞挖掘",
+                        "description": ""
+                    }
+                }
+            }
+        }
+    }
+}

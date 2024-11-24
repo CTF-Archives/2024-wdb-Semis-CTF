@@ -1,0 +1,39 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311573.508412,
+    "data": {
+        "resource_id": "a59b4babf83de05cc35a4d710126aabd",
+        "name": "车联网日志分析",
+        "desc": "车内日志的秘密，日志也能注入？",
+        "attachment": {
+            "name": "55ae699fe15e4eb58dbfff74092d1826.zip",
+            "url": "/cpms/oj/practice_attachment/b1935840442e4dd796ab1a564dc32aa9.zip",
+            "md5": "b3a480ff4fa05ad6f0368632fd4bbfc6"
+        },
+        "with_scene": true,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": false,
+        "solved_score": 0,
+        "solved_rank": 0,
+        "recycle": null,
+        "flag_type": 1,
+        "scene_config": {
+            "id": "df40241e229f4c24b24c4b0a50762e1a",
+            "cscene": null,
+            "name": "车联网日志分析",
+            "reference_type": 302,
+            "scene_config": {
+                "topology": {
+                    "scene": {
+                        "eid": "1898e07c01de421fb825c59aae11fa70",
+                        "name": "车联网日志分析",
+                        "description": ""
+                    }
+                }
+            }
+        }
+    }
+}

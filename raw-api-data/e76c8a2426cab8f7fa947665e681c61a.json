@@ -1,0 +1,39 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311805.963118,
+    "data": {
+        "resource_id": "e76c8a2426cab8f7fa947665e681c61a",
+        "name": "系统内核漏洞挖掘",
+        "desc": "Generic_kernel_shellcode\nWrite a generic linux kernel shellcode?",
+        "attachment": {
+            "name": "5673aed554ce4c28af5ba213a78421f7.zip",
+            "url": "/cpms/oj/practice_attachment/363700c248284beb94f7efd8a3a1899f.zip",
+            "md5": "62a55eae47a94b752d9fa093518eff4c"
+        },
+        "with_scene": true,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": false,
+        "solved_score": 0,
+        "solved_rank": 0,
+        "recycle": null,
+        "flag_type": 0,
+        "scene_config": {
+            "id": "48072e1786ec4406b2a86cd1352a2af7",
+            "cscene": null,
+            "name": "系统内核漏洞挖掘",
+            "reference_type": 302,
+            "scene_config": {
+                "topology": {
+                    "scene": {
+                        "eid": "06e48b9ede2f4e43b3e5e7b430ff0310",
+                        "name": "系统内核漏洞挖掘",
+                        "description": ""
+                    }
+                }
+            }
+        }
+    }
+}

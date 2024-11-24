@@ -1,0 +1,39 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311736.880331,
+    "data": {
+        "resource_id": "4068341c35fb0ece0fe3950e588c1435",
+        "name": "IOT应用容器漏洞",
+        "desc": "signin\n难道这是真正的登陆入口吗？",
+        "attachment": {
+            "name": "88d1e1e8ba6c40ba8250b1c8cba39f2f.zip",
+            "url": "/cpms/oj/practice_attachment/4079206a075a4f1c8d4f7b48e9825284.zip",
+            "md5": "252aa502fe1e4ecd74b94c46e1a31d23"
+        },
+        "with_scene": true,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": false,
+        "solved_score": 0,
+        "solved_rank": 0,
+        "recycle": null,
+        "flag_type": 1,
+        "scene_config": {
+            "id": "87959f32433b410595ebf74ab2b0b02d",
+            "cscene": null,
+            "name": "IOT应用容器漏洞",
+            "reference_type": 302,
+            "scene_config": {
+                "topology": {
+                    "scene": {
+                        "eid": "e7a199d177314eb386af689f4803a55d",
+                        "name": "IOT应用容器漏洞",
+                        "description": ""
+                    }
+                }
+            }
+        }
+    }
+}

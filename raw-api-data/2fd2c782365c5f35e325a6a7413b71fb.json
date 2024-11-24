@@ -1,0 +1,39 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311851.012546,
+    "data": {
+        "resource_id": "2fd2c782365c5f35e325a6a7413b71fb",
+        "name": "IOT网络协议分析",
+        "desc": "babyRTP\n这是一个双端都会推流的服务",
+        "attachment": {
+            "name": "e7f4bbee4896463283241de2a792dc38.zip",
+            "url": "/cpms/oj/practice_attachment/a250dee185504fb5b59078f0641b2604.zip",
+            "md5": "1086395b7500e7b04fe649b22b24fca1"
+        },
+        "with_scene": true,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": false,
+        "solved_score": 0,
+        "solved_rank": 0,
+        "recycle": null,
+        "flag_type": 0,
+        "scene_config": {
+            "id": "1f8787a254084ca3bc6c3da3beeed2ab",
+            "cscene": null,
+            "name": "IOT网络协议分析",
+            "reference_type": 302,
+            "scene_config": {
+                "topology": {
+                    "scene": {
+                        "eid": "f1f04363feb04d258fb24b6f96d66702",
+                        "name": "IOT网络协议分析",
+                        "description": ""
+                    }
+                }
+            }
+        }
+    }
+}

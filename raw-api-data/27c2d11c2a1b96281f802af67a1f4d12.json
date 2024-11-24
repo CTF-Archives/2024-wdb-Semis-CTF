@@ -1,0 +1,39 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311831.181361,
+    "data": {
+        "resource_id": "27c2d11c2a1b96281f802af67a1f4d12",
+        "name": "新编译技术漏洞",
+        "desc": "jitlover\n这是一台不完全的JIT虚拟机，请找到其中的漏洞以获取flag",
+        "attachment": {
+            "name": "ce834e1434804f22bb7c6deb9c01b6ab.zip",
+            "url": "/cpms/oj/practice_attachment/482e8e5a7f814e00831c5f2e02709f97.zip",
+            "md5": "6abe8cf7f935a85654620fb55c955b86"
+        },
+        "with_scene": true,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": false,
+        "solved_score": 0,
+        "solved_rank": 0,
+        "recycle": null,
+        "flag_type": 1,
+        "scene_config": {
+            "id": "23b1115c238943059d3e4af70fd00e38",
+            "cscene": null,
+            "name": "新编译技术漏洞",
+            "reference_type": 302,
+            "scene_config": {
+                "topology": {
+                    "scene": {
+                        "eid": "5ac798cc8b54456395e38d4492d37c66",
+                        "name": "新编译技术漏洞",
+                        "description": ""
+                    }
+                }
+            }
+        }
+    }
+}

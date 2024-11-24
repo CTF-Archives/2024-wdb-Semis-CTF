@@ -1,0 +1,24 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311901.64726,
+    "data": {
+        "resource_id": "d6ec408520726f34d5feef4c77b00007",
+        "name": "5G网络隐私保护",
+        "desc": "Get_supi\n\n在某些场景下，LTE网络中用户的IMSI会在空口暴露，5G网络是如何进行隐私保护的？网络侧如何得到用户的SUPI？（提交请加上flag{}）",
+        "attachment": {
+            "name": "5G网络隐私保护.zip",
+            "url": "/cpms/oj/practice_attachment/6b8aa8c167ab427ca3ac1b20012d2db3.zip",
+            "md5": "547afc69d6635e73d97e171d407a141e"
+        },
+        "with_scene": false,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": true,
+        "solved_score": 433.33,
+        "solved_rank": 51,
+        "recycle": null,
+        "flag_type": 2
+    }
+}

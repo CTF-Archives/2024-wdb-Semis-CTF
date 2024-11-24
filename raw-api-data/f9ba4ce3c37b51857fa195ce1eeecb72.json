@@ -1,0 +1,24 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311648.34769,
+    "data": {
+        "resource_id": "f9ba4ce3c37b51857fa195ce1eeecb72",
+        "name": "python逆向分析",
+        "desc": "compress\n一个幽灵，一个EOL的幽灵在代码审计中游荡。",
+        "attachment": {
+            "name": "python逆向分析.zip",
+            "url": "/cpms/oj/practice_attachment/a502520fe6574a8dbc54937706b79ef9.zip",
+            "md5": "43b74415d95035fd03ce31a5467b4764"
+        },
+        "with_scene": false,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": false,
+        "solved_score": 0,
+        "solved_rank": 0,
+        "recycle": null,
+        "flag_type": 2
+    }
+}

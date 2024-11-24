@@ -1,0 +1,39 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311757.425765,
+    "data": {
+        "resource_id": "98c9838c62d6397a13008f5c3ba5eaa1",
+        "name": "序列密码加密分析",
+        "desc": "noise\nLet me tell you a story about noisy-nfsr.",
+        "attachment": {
+            "name": "attachments.zip",
+            "url": "/ct/upload/other/d17b9250825ee0c02cfd59fefce537d2.zip",
+            "md5": "9ee07e809fd25e7c498789c6429110cf"
+        },
+        "with_scene": true,
+        "with_scene_inst": false,
+        "enroll_id": "f7241ef83f79af0d91944fcff3a4262d",
+        "is_solved": false,
+        "solved_score": 0,
+        "solved_rank": 0,
+        "recycle": null,
+        "flag_type": 1,
+        "scene_config": {
+            "id": "af6e385f077f4ecbbb99a2e5b9c36d0a",
+            "cscene": null,
+            "name": "序列密码加密分析",
+            "reference_type": 302,
+            "scene_config": {
+                "topology": {
+                    "scene": {
+                        "eid": "4d3273f1ba3d4a08a85cf722791563bb",
+                        "name": "序列密码加密分析",
+                        "description": ""
+                    }
+                }
+            }
+        }
+    }
+}

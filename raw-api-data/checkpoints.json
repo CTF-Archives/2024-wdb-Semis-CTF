@@ -1,0 +1,322 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311395.068269,
+    "data": {
+        "total": 13,
+        "list": [
+            {
+                "resource_id": "6f48f0ac82b486fc034eed607ee01d01",
+                "name": "RSA加密分析",
+                "score": 596.67,
+                "solved": 1,
+                "direction": "密码学",
+                "is_solved": false,
+                "top_three": [
+                    {
+                        "name": "NISA-CarpeDiem",
+                        "identify_key": 607,
+                        "resource_id": "ce51e747f6c734bd21ff9b8554022f22",
+                        "rank": 1
+                    }
+                ],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 0,
+                "online": true
+            },
+            {
+                "resource_id": "a59b4babf83de05cc35a4d710126aabd",
+                "name": "车联网日志分析",
+                "score": 795.56,
+                "solved": 1,
+                "direction": "新技术应用",
+                "is_solved": false,
+                "top_three": [
+                    {
+                        "name": "noname",
+                        "identify_key": 611,
+                        "resource_id": "adac8d2da399f62100f153ea296e839e",
+                        "rank": 1
+                    }
+                ],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 1,
+                "online": true
+            },
+            {
+                "resource_id": "4925dc76e06f5a37608a45c43a85f6ce",
+                "name": "邮件数据分析",
+                "score": 25,
+                "solved": 153,
+                "direction": "数据安全",
+                "is_solved": true,
+                "top_three": [
+                    {
+                        "name": "or4nge",
+                        "identify_key": 587,
+                        "resource_id": "1229feedce345f63e530d9a7bcf01c9b",
+                        "rank": 1
+                    },
+                    {
+                        "name": "SSSec000",
+                        "identify_key": 596,
+                        "resource_id": "234aec31d5984e63f9ad5a2e4384a896",
+                        "rank": 2
+                    },
+                    {
+                        "name": "0ops-2",
+                        "identify_key": 667,
+                        "resource_id": "e238b74d113f5f827228106b925f4992",
+                        "rank": 3
+                    }
+                ],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 0,
+                "online": true
+            },
+            {
+                "resource_id": "f9ba4ce3c37b51857fa195ce1eeecb72",
+                "name": "python逆向分析",
+                "score": 600,
+                "solved": 0,
+                "direction": "逆向安全",
+                "is_solved": false,
+                "top_three": [],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 2,
+                "online": true
+            },
+            {
+                "resource_id": "5552c5250d3d1fb5f2c83ea138f359ae",
+                "name": "二进制漏洞挖掘",
+                "score": 412.5,
+                "solved": 15,
+                "direction": "二进制安全",
+                "is_solved": false,
+                "top_three": [
+                    {
+                        "name": "泥巴睡觉",
+                        "identify_key": 582,
+                        "resource_id": "276635ccdb033c29f3355b85f0f591a5",
+                        "rank": 1
+                    },
+                    {
+                        "name": "0ops",
+                        "identify_key": 514,
+                        "resource_id": "18c1d0eecd9cf2bdfc4fabe3ee5086cd",
+                        "rank": 2
+                    },
+                    {
+                        "name": "小清华",
+                        "identify_key": 679,
+                        "resource_id": "c465ad2a80dec11b88ae0750923ec498",
+                        "rank": 3
+                    }
+                ],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 1,
+                "online": true
+            },
+            {
+                "resource_id": "a4df1ae3b58ca3ddcc09095c1b8a49fe",
+                "name": "数据安全协议分析",
+                "score": 447.5,
+                "solved": 1,
+                "direction": "数据安全",
+                "is_solved": false,
+                "top_three": [
+                    {
+                        "name": "volcana",
+                        "identify_key": 585,
+                        "resource_id": "b6cc28c6e0f418290733b671c6804263",
+                        "rank": 1
+                    }
+                ],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 1,
+                "online": true
+            },
+            {
+                "resource_id": "4068341c35fb0ece0fe3950e588c1435",
+                "name": "IOT应用容器漏洞",
+                "score": 800,
+                "solved": 0,
+                "direction": "新技术应用",
+                "is_solved": false,
+                "top_three": [],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 1,
+                "online": true
+            },
+            {
+                "resource_id": "98c9838c62d6397a13008f5c3ba5eaa1",
+                "name": "序列密码加密分析",
+                "score": 1000,
+                "solved": 0,
+                "direction": "密码学",
+                "is_solved": false,
+                "top_three": [],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 1,
+                "online": true
+            },
+            {
+                "resource_id": "e76c8a2426cab8f7fa947665e681c61a",
+                "name": "系统内核漏洞挖掘",
+                "score": 988.89,
+                "solved": 2,
+                "direction": "二进制安全",
+                "is_solved": false,
+                "top_three": [
+                    {
+                        "name": "Air2top",
+                        "identify_key": 520,
+                        "resource_id": "4fec3769b01d28f848554b1bb9e65e17",
+                        "rank": 1
+                    },
+                    {
+                        "name": "0ops",
+                        "identify_key": 514,
+                        "resource_id": "3a40f8db647818d2b543b36e8c222746",
+                        "rank": 2
+                    }
+                ],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 0,
+                "online": true
+            },
+            {
+                "resource_id": "27c2d11c2a1b96281f802af67a1f4d12",
+                "name": "新编译技术漏洞",
+                "score": 1000,
+                "solved": 0,
+                "direction": "二进制安全",
+                "is_solved": false,
+                "top_three": [],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 1,
+                "online": true
+            },
+            {
+                "resource_id": "2fd2c782365c5f35e325a6a7413b71fb",
+                "name": "IOT网络协议分析",
+                "score": 430,
+                "solved": 8,
+                "direction": "新技术应用",
+                "is_solved": false,
+                "top_three": [
+                    {
+                        "name": "or4nge",
+                        "identify_key": 587,
+                        "resource_id": "1d79b9037725bf2faa07353982fb9796",
+                        "rank": 1
+                    },
+                    {
+                        "name": "晚上吃什么",
+                        "identify_key": 608,
+                        "resource_id": "6440ac244749c5417acbe913d31393f0",
+                        "rank": 2
+                    },
+                    {
+                        "name": "WXYZ",
+                        "identify_key": 542,
+                        "resource_id": "6f68eae6cfed856b7bd6f3ecb1e34728",
+                        "rank": 3
+                    }
+                ],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 0,
+                "online": true
+            },
+            {
+                "resource_id": "3dee8e1fefacfc19257c13abf9daa5f3",
+                "name": "网络通信流量分析",
+                "score": 47.92,
+                "solved": 111,
+                "direction": "逆向安全",
+                "is_solved": true,
+                "top_three": [
+                    {
+                        "name": "天枢Dubhe",
+                        "identify_key": 598,
+                        "resource_id": "358b0c5f854af10a07a1005c7f46c226",
+                        "rank": 1
+                    },
+                    {
+                        "name": "X0RSEC",
+                        "identify_key": 518,
+                        "resource_id": "6af0ccc898910658ce2a1d5f10ec71d7",
+                        "rank": 2
+                    },
+                    {
+                        "name": "0ops",
+                        "identify_key": 514,
+                        "resource_id": "2fc5c9e2e65d6349bcb2ad096b0fa92e",
+                        "rank": 3
+                    }
+                ],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 0,
+                "online": true
+            },
+            {
+                "resource_id": "d6ec408520726f34d5feef4c77b00007",
+                "name": "5G网络隐私保护",
+                "score": 243.33,
+                "solved": 107,
+                "direction": "新技术应用",
+                "is_solved": true,
+                "top_three": [
+                    {
+                        "name": "泥巴睡觉",
+                        "identify_key": 582,
+                        "resource_id": "cff157252fb8db2775c33a713d2d8ef7",
+                        "rank": 1
+                    },
+                    {
+                        "name": "圣地亚哥皮蛋",
+                        "identify_key": 592,
+                        "resource_id": "e29a11a7deb3486b13f72f82a4716f10",
+                        "rank": 2
+                    },
+                    {
+                        "name": "F_Cat",
+                        "identify_key": 649,
+                        "resource_id": "447c363c28d227539793e49f06c8f9e5",
+                        "rank": 3
+                    }
+                ],
+                "is_notice": false,
+                "unreceived_notice": false,
+                "cd_hot_value": 100,
+                "flag_type": 2,
+                "online": true
+            }
+        ]
+    }
+}

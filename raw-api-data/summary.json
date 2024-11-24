@@ -1,0 +1,33 @@
+{
+    "code": "AD-000000",
+    "message": "",
+    "detail": "",
+    "timestamp": 1732311394.542213,
+    "data": [
+        {
+            "direction": "二进制安全",
+            "total": 3,
+            "solved_quantity": 0
+        },
+        {
+            "direction": "密码学",
+            "total": 2,
+            "solved_quantity": 0
+        },
+        {
+            "direction": "数据安全",
+            "total": 2,
+            "solved_quantity": 1
+        },
+        {
+            "direction": "新技术应用",
+            "total": 4,
+            "solved_quantity": 1
+        },
+        {
+            "direction": "逆向安全",
+            "total": 2,
+            "solved_quantity": 1
+        }
+    ]
+}
